@@ -74,4 +74,3 @@ select * from entity;
 select * from objects;
 select * from actions;
 select * from actions_of_entities;
-
